@@ -1,0 +1,9 @@
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\bin\Debug\StockRegisterApp.exe.config
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\obj\Debug\StockRegisterApp.ProductEntryUI.resources
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\obj\Debug\StockRegisterApp.Properties.Resources.resources
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\obj\Debug\StockRegisterApp.csproj.GenerateResource.Cache
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\bin\Debug\StockRegisterApp.exe
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\bin\Debug\StockRegisterApp.pdb
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\obj\Debug\StockRegisterApp.exe
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\obj\Debug\StockRegisterApp.pdb
+D:\Moshiur_OOP_49\StockRegisterApp\StockRegisterApp\obj\Debug\StockRegisterApp.csprojResolveAssemblyReference.cache
